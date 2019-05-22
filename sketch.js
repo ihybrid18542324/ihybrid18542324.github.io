@@ -11,7 +11,7 @@ var rowSize;
 
 // Preloads our image
 function preload() {
-  img = loadImage("hybrid-01.png");
+  img = loadImage("creativeartwork-02-02.png");
 }
 
 function setup() {
