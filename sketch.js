@@ -11,7 +11,7 @@ var rowSize;
 
 // Preloads our image
 function preload() {
-  img = loadImage("hybrid-01.png.png");
+  img = loadImage("hybrid-01.png");
 }
 
 function setup() {
