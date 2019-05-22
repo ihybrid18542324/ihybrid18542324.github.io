@@ -11,11 +11,11 @@ var rowSize;
 
 // Preloads our image
 function preload() {
-  img = loadImage("hybrid-01.png");
+  img = loadImage("creative artwork-02-02.png");
 }
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(600, 600);
 
   // Here we load the pixels in the image and work out
   // what colour each circle will be
