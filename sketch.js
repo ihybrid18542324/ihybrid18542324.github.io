@@ -1,7 +1,7 @@
 var img;
 
-var columns = 90;
-var rows = 90;
+var columns = 60;
+var rows = 60;
 
 // This is an array that will contain all our circles
 var circles = [];
@@ -11,7 +11,7 @@ var rowSize;
 
 // Preloads our image
 function preload() {
-  img = loadImage("x website-02.png");
+  img = loadImage("NEW-02.png");
 }
 
 function setup() {
