@@ -1,7 +1,7 @@
 var img;
 
-var columns = 60;
-var rows = 60;
+var columns = 70;
+var rows = 70;
 
 // This is an array that will contain all our circles
 var circles = [];
