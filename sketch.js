@@ -11,7 +11,7 @@ var rowSize;
 
 // Preloads our image
 function preload() {
-  img = loadImage("creative artwork-02-02.png");
+  img = loadImage("x website-02.png");
 }
 
 function setup() {
