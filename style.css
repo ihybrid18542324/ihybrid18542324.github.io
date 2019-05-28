@@ -3,7 +3,7 @@ html, body {
   padding: 0;
   }
 body {
-  background-image: url('x_website_01.png');
+  background-image: url("x_website_01.png");
   background-repeat: no-repeat;
   background-size: cover;
 
