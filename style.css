@@ -5,7 +5,7 @@ html, body {
 body {
   background-image: url("x_website_01.png");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
 
 }
 canvas {
