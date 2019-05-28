@@ -8,6 +8,10 @@ body {
   background-size: cover;
 
 }
+div.a {
+  text-align: center;
+}
+
 canvas {
   display: block;
 }
