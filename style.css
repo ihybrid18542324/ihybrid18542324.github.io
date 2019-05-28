@@ -1,6 +1,13 @@
 html, body {
   margin: 0;
   padding: 0;
+  
+  background: url(x website-01.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+div.a {
+  text-align: center;
+}
 }
 canvas {
   display: block;
