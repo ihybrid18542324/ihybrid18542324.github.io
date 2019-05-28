@@ -70,7 +70,6 @@ class Circle {
   }
 
   draw() {
-    console.log(this.c);
     fill(this.c);
     ellipse(this.x, this.y, this.w * this.scale, this.h * this.scale);
   }
