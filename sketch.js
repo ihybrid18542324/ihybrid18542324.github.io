@@ -11,11 +11,11 @@ var rowSize;
 
 // Preloads our image
 function preload() {
-  img = loadImage("NEW-02.png");
+  img = loadImage("Interaction_artwork.png");
 }
 
 function setup() {
-  createCanvas(600, 600);
+  createCanvas(154, 690);
 
   // Here we load the pixels in the image and work out
   // what colour each circle will be
