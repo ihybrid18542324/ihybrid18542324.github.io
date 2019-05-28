@@ -37,7 +37,7 @@ function setup() {
 }
 
 function draw() {
-  background(250, 201, 207);
+  background(250, 236, 250);
 
   // We iterate over our circles and draw each one
   for (let i = 0; i < circles.length; i++) {
