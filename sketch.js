@@ -15,7 +15,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(800, 800);
+  createCanvas(800, 500);
 
   // Here we load the pixels in the image and work out
   // what colour each circle will be
