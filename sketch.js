@@ -11,7 +11,7 @@ var rowSize;
 
 // Preloads our image
 function preload() {
-  img = loadImage("die-02.jpg");
+  img = loadImage("bo-02.jpg");
 }
 
 function setup() {
