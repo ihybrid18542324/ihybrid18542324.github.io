@@ -11,7 +11,7 @@ var rowSize;
 
 // Preloads our image
 function preload() {
-  img = loadImage("creative-02.jpg");
+  img = loadImage("Interaction_artwork.png");
 }
 
 function setup() {
