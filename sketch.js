@@ -1,7 +1,7 @@
 var img;
 
-var columns = 80;
-var rows = 60;
+var columns = 95;
+var rows = 80;
 
 // This is an array that will contain all our circles
 var circles = [];
@@ -15,7 +15,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(800, 500);
+  createCanvas(700, 400);
 
   // Here we load the pixels in the image and work out
   // what colour each circle will be
