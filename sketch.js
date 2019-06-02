@@ -11,7 +11,7 @@ var rowSize;
 
 // Preloads our image
 function preload() {
-  img = loadImage("coex.png");
+  img = loadImage("test2.png");
 }
 
 function setup() {
