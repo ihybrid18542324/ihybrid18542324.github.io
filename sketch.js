@@ -11,7 +11,7 @@ var rowSize;
 
 // Preloads our image
 function preload() {
-  img = loadImage("co.png");
+  img = loadImage("inter.png");
 }
 
 function setup() {
